@@ -7,13 +7,13 @@ Use /help to know commands and how to use this bot'''
 help_text = '''List of commands:
 
 /manga <name of Manga you want> : to download any Manga by search
-Example: /manga attack on titan
+Example: `/manga attack on titan`
 
 /nh <hentai code> : to download Hentai
-Example: /nh 350223
+Example: `/nh 350223`
 
 /read <type-manga-name-using-hyphen:chapter_number>
-Example: /read attack-on-titan:1
+Example: `/read attack-on-titan:1`
 
 Note: Sometimes bot cannot find the manga by English name, that case, use the japanese name.
 For example: use "Kimetsu no yaiba" instead of "Demon Slayer"
